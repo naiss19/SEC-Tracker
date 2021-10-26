@@ -1,0 +1,2284 @@
+{
+    "total": {
+        "value": 39,
+        "relation": "eq"
+    },
+    "query": {
+        "from": 0,
+        "size": 200
+    },
+    "filings": [
+        {
+            "id": "f738997f69835a1053cb38ada82a552a",
+            "accessionNo": "0001494727-18-000003",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2018-11-09T20:56:36-05:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000149472718000003/0001494727-18-000003.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001494727-18-000003-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1318605/000149472718000003/xslF345X03/edgardoc.xml",
+            "entities": [
+                {
+                    "companyName": "Tesla, Inc. (Issuer)",
+                    "cik": "0001318605",
+                    "irsNo": "912197729",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "3711 Motor Vehicles &amp; Passenger Car Bodies"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-34756",
+                    "filmNo": "181174532"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149472718000003/xslF345X03/edgardoc.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149472718000003/edgardoc.xml",
+                    "type": "4",
+                    "size": "3497"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149472718000003/0001494727-18-000003.txt",
+                    "type": "\u00a0",
+                    "size": "4924"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "945ba05461ffa0ba2596afcc97cfbb60",
+            "accessionNo": "0001494730-18-000006",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2018-10-30T06:11:06-04:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000149473018000006/0001494730-18-000006.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001494730-18-000006-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1318605/000149473018000006/xslF345X03/edgardoc.xml",
+            "entities": [
+                {
+                    "companyName": "Tesla, Inc. (Issuer)",
+                    "cik": "0001318605",
+                    "irsNo": "912197729",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "3711 Motor Vehicles &amp; Passenger Car Bodies"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-34756",
+                    "filmNo": "181145441"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473018000006/xslF345X03/edgardoc.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473018000006/edgardoc.xml",
+                    "type": "4",
+                    "size": "8302"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473018000006/0001494730-18-000006.txt",
+                    "type": "\u00a0",
+                    "size": "9729"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "fbbe40fad27ad80c425d73a1e0b99922",
+            "accessionNo": "0001494730-18-000005",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2018-06-13T14:39:19-04:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000149473018000005/0001494730-18-000005.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001494730-18-000005-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1318605/000149473018000005/xslF345X03/edgardoc.xml",
+            "entities": [
+                {
+                    "companyName": "Tesla, Inc. (Issuer)",
+                    "cik": "0001318605",
+                    "irsNo": "912197729",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "3711 Motor Vehicles &amp; Passenger Car Bodies"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-34756",
+                    "filmNo": "18896476"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473018000005/xslF345X03/edgardoc.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473018000005/edgardoc.xml",
+                    "type": "4",
+                    "size": "17727"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473018000005/0001494730-18-000005.txt",
+                    "type": "\u00a0",
+                    "size": "19153"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "ae9a43df21786b2daad9aabf729d1858",
+            "accessionNo": "0001494730-18-000002",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2018-05-07T15:13:26-04:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000149473018000002/0001494730-18-000002.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001494730-18-000002-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1318605/000149473018000002/xslF345X03/edgardoc.xml",
+            "entities": [
+                {
+                    "companyName": "Tesla, Inc. (Issuer)",
+                    "cik": "0001318605",
+                    "irsNo": "912197729",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "3711 Motor Vehicles &amp; Passenger Car Bodies"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-34756",
+                    "filmNo": "18810901"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473018000002/xslF345X03/edgardoc.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473018000002/edgardoc.xml",
+                    "type": "4",
+                    "size": "17723"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473018000002/0001494730-18-000002.txt",
+                    "type": "\u00a0",
+                    "size": "19149"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "8dcd6a6052f4fc7b6b4dbcf07a59c811",
+            "accessionNo": "0001494730-18-000001",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2018-03-21T20:15:17-04:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000149473018000001/0001494730-18-000001.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001494730-18-000001-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1318605/000149473018000001/xslF345X03/edgardoc.xml",
+            "entities": [
+                {
+                    "companyName": "Tesla, Inc. (Issuer)",
+                    "cik": "0001318605",
+                    "irsNo": "912197729",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "3711 Motor Vehicles &amp; Passenger Car Bodies"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-34756",
+                    "filmNo": "18705532"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473018000001/xslF345X03/edgardoc.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473018000001/edgardoc.xml",
+                    "type": "4",
+                    "size": "4188"
+                },
+                {
+                    "sequence": "2",
+                    "description": "EDGAR SUPPORTING DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473018000001/poaofficer.txt",
+                    "type": "EX-24",
+                    "size": "1804"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473018000001/0001494730-18-000001.txt",
+                    "type": "\u00a0",
+                    "size": "7418"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "b17a443e4b0ce1c7aca30327305ed858",
+            "accessionNo": "0001494730-17-000002",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2017-04-25T20:27:11-04:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000149473017000002/0001494730-17-000002.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001494730-17-000002-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1318605/000149473017000002/xslF345X03/edgardoc.xml",
+            "entities": [
+                {
+                    "companyName": "Tesla, Inc. (Issuer)",
+                    "cik": "0001318605",
+                    "irsNo": "912197729",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "3711 Motor Vehicles &amp; Passenger Car Bodies"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-34756",
+                    "filmNo": "17782275"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473017000002/xslF345X03/edgardoc.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473017000002/edgardoc.xml",
+                    "type": "4",
+                    "size": "5880"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473017000002/0001494730-17-000002.txt",
+                    "type": "\u00a0",
+                    "size": "7306"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "c5b96ea928e298a6ebcb6e3b2e15e3c8",
+            "accessionNo": "0001494730-17-000001",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2017-03-21T19:23:48-04:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000149473017000001/0001494730-17-000001.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001494730-17-000001-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1318605/000149473017000001/xslF345X03/edgardoc.xml",
+            "entities": [
+                {
+                    "companyName": "Tesla, Inc. (Issuer)",
+                    "cik": "0001318605",
+                    "irsNo": "912197729",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "3711 Motor Vehicles &amp; Passenger Car Bodies"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-34756",
+                    "filmNo": "17705286"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473017000001/xslF345X03/edgardoc.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473017000001/edgardoc.xml",
+                    "type": "4",
+                    "size": "3386"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473017000001/0001494730-17-000001.txt",
+                    "type": "\u00a0",
+                    "size": "4812"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "5878fd7ee768652e40d5eb70c252aab4",
+            "accessionNo": "0001494730-16-000009",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2016-11-23T20:44:40-05:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000149473016000009/0001494730-16-000009.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001494730-16-000009-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1318605/000149473016000009/xslF345X03/edgardoc.xml",
+            "entities": [
+                {
+                    "companyName": "TESLA MOTORS INC (Issuer)",
+                    "cik": "0001318605",
+                    "irsNo": "912197729",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "3711 Motor Vehicles &amp; Passenger Car Bodies"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-34756",
+                    "filmNo": "162017625"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473016000009/xslF345X03/edgardoc.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473016000009/edgardoc.xml",
+                    "type": "4",
+                    "size": "9402"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473016000009/0001494730-16-000009.txt",
+                    "type": "\u00a0",
+                    "size": "10741"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "9b487c624f4397b4ed2dab169feab514",
+            "accessionNo": "0001408356-16-000172",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2016-11-23T16:27:50-05:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000140835616000172/0001408356-16-000172.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001408356-16-000172-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1408356/000140835616000172/xslF345X03/edgar.xml",
+            "entities": [
+                {
+                    "companyName": "SOLARCITY CORP (Issuer)",
+                    "cik": "0001408356",
+                    "irsNo": "020781046",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "1700 Construction - Special Trade Contractors"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-35758",
+                    "filmNo": "162016945"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835616000172/xslF345X03/edgar.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835616000172/edgar.xml",
+                    "type": "4",
+                    "size": "7964"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835616000172/0001408356-16-000172.txt",
+                    "type": "\u00a0",
+                    "size": "9299"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "b006e29e5e98368a82cc96f4997dcaca",
+            "accessionNo": "0001494730-16-000008",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2016-05-26T20:21:38-04:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000149473016000008/0001494730-16-000008.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001494730-16-000008-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1318605/000149473016000008/xslF345X03/edgardoc.xml",
+            "entities": [
+                {
+                    "companyName": "TESLA MOTORS INC (Issuer)",
+                    "cik": "0001318605",
+                    "irsNo": "912197729",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "3711 Motor Vehicles &amp; Passenger Car Bodies"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-34756",
+                    "filmNo": "161679793"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473016000008/xslF345X03/edgardoc.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473016000008/edgardoc.xml",
+                    "type": "4",
+                    "size": "3794"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473016000008/0001494730-16-000008.txt",
+                    "type": "\u00a0",
+                    "size": "5133"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "f4513f3f8cc7b816452cb6ad0c0e309a",
+            "accessionNo": "0001494730-16-000007",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2016-05-23T18:08:34-04:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000149473016000007/0001494730-16-000007.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001494730-16-000007-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1318605/000149473016000007/xslF345X03/edgardoc.xml",
+            "entities": [
+                {
+                    "companyName": "TESLA MOTORS INC (Issuer)",
+                    "cik": "0001318605",
+                    "irsNo": "912197729",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "3711 Motor Vehicles &amp; Passenger Car Bodies"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-34756",
+                    "filmNo": "161670325"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473016000007/xslF345X03/edgardoc.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473016000007/edgardoc.xml",
+                    "type": "4",
+                    "size": "11429"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473016000007/0001494730-16-000007.txt",
+                    "type": "\u00a0",
+                    "size": "12768"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "81fe1fb6a2703dd3ea5c1c515404898e",
+            "accessionNo": "0001408356-16-000114",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2016-02-12T18:38:32-05:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000140835616000114/0001408356-16-000114.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001408356-16-000114-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1408356/000140835616000114/xslF345X03/edgar.xml",
+            "entities": [
+                {
+                    "companyName": "SOLARCITY CORP (Issuer)",
+                    "cik": "0001408356",
+                    "irsNo": "020781046",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "1700 Construction - Special Trade Contractors"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-35758",
+                    "filmNo": "161421795"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835616000114/xslF345X03/edgar.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835616000114/edgar.xml",
+                    "type": "4",
+                    "size": "3839"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835616000114/0001408356-16-000114.txt",
+                    "type": "\u00a0",
+                    "size": "5174"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "27dfb25ea19a600a9e23832bf542b5b3",
+            "accessionNo": "0001494730-16-000005",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2016-02-10T17:20:12-05:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000149473016000005/0001494730-16-000005.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001494730-16-000005-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1318605/000149473016000005/xslF345X03/edgardoc.xml",
+            "entities": [
+                {
+                    "companyName": "TESLA MOTORS INC (Issuer)",
+                    "cik": "0001318605",
+                    "irsNo": "912197729",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "3711 Motor Vehicles &amp; Passenger Car Bodies"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-34756",
+                    "filmNo": "161406675"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473016000005/xslF345X03/edgardoc.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473016000005/edgardoc.xml",
+                    "type": "4",
+                    "size": "5749"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473016000005/0001494730-16-000005.txt",
+                    "type": "\u00a0",
+                    "size": "7088"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "522f7dd7971b95cf0e98cb6710334e6b",
+            "accessionNo": "0001494730-16-000004",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2016-01-29T17:26:45-05:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000149473016000004/0001494730-16-000004.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001494730-16-000004-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1318605/000149473016000004/xslF345X03/edgardoc.xml",
+            "entities": [
+                {
+                    "companyName": "TESLA MOTORS INC (Issuer)",
+                    "cik": "0001318605",
+                    "irsNo": "912197729",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "3711 Motor Vehicles &amp; Passenger Car Bodies"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-34756",
+                    "filmNo": "161374531"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473016000004/xslF345X03/edgardoc.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473016000004/edgardoc.xml",
+                    "type": "4",
+                    "size": "5750"
+                },
+                {
+                    "sequence": "2",
+                    "description": "EDGAR SUPPORTING DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473016000004/poaofficer.txt",
+                    "type": "EX-24",
+                    "size": "1785"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473016000004/0001494730-16-000004.txt",
+                    "type": "\u00a0",
+                    "size": "8874"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "ba88287113f8b8aa5d652832c1cff5d6",
+            "accessionNo": "0001408356-16-000108",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2016-01-05T17:33:25-05:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000140835616000108/0001408356-16-000108.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001408356-16-000108-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1408356/000140835616000108/xslF345X03/edgar.xml",
+            "entities": [
+                {
+                    "companyName": "SOLARCITY CORP (Issuer)",
+                    "cik": "0001408356",
+                    "irsNo": "020781046",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "1700 Construction - Special Trade Contractors"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-35758",
+                    "filmNo": "161323947"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835616000108/xslF345X03/edgar.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835616000108/edgar.xml",
+                    "type": "4",
+                    "size": "3510"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835616000108/0001408356-16-000108.txt",
+                    "type": "\u00a0",
+                    "size": "4845"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "23ae2e0edd559adc9a88dbbcd04b7628",
+            "accessionNo": "0001408356-15-000104",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2015-12-22T18:44:06-05:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000140835615000104/0001408356-15-000104.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001408356-15-000104-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000104/xslF345X03/edgar.xml",
+            "entities": [
+                {
+                    "companyName": "SOLARCITY CORP (Issuer)",
+                    "cik": "0001408356",
+                    "irsNo": "020781046",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "1700 Construction - Special Trade Contractors"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-35758",
+                    "filmNo": "151303945"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000104/xslF345X03/edgar.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000104/edgar.xml",
+                    "type": "4",
+                    "size": "3446"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000104/0001408356-15-000104.txt",
+                    "type": "\u00a0",
+                    "size": "4781"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "6976aa5f2d674cbd8dead42a2373d957",
+            "accessionNo": "0001408356-15-000093",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2015-12-16T16:40:42-05:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000140835615000093/0001408356-15-000093.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001408356-15-000093-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000093/xslF345X03/edgar.xml",
+            "entities": [
+                {
+                    "companyName": "SOLARCITY CORP (Issuer)",
+                    "cik": "0001408356",
+                    "irsNo": "020781046",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "1700 Construction - Special Trade Contractors"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-35758",
+                    "filmNo": "151291366"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000093/xslF345X03/edgar.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000093/edgar.xml",
+                    "type": "4",
+                    "size": "3510"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000093/0001408356-15-000093.txt",
+                    "type": "\u00a0",
+                    "size": "4845"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "24feebda590adaa232b7ef8d52db679d",
+            "accessionNo": "0001408356-15-000088",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2015-11-16T18:58:30-05:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000140835615000088/0001408356-15-000088.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001408356-15-000088-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000088/xslF345X03/edgar.xml",
+            "entities": [
+                {
+                    "companyName": "SOLARCITY CORP (Issuer)",
+                    "cik": "0001408356",
+                    "irsNo": "020781046",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "1700 Construction - Special Trade Contractors"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-35758",
+                    "filmNo": "151236719"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000088/xslF345X03/edgar.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000088/edgar.xml",
+                    "type": "4",
+                    "size": "3839"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000088/0001408356-15-000088.txt",
+                    "type": "\u00a0",
+                    "size": "5174"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "b86a5c3509eb86e415ef5283d947dd4d",
+            "accessionNo": "0001408356-15-000085",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2015-11-13T17:41:01-05:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000140835615000085/0001408356-15-000085.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001408356-15-000085-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000085/xslF345X03/edgar.xml",
+            "entities": [
+                {
+                    "companyName": "SOLARCITY CORP (Issuer)",
+                    "cik": "0001408356",
+                    "irsNo": "020781046",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "1700 Construction - Special Trade Contractors"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-35758",
+                    "filmNo": "151230428"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000085/xslF345X03/edgar.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000085/edgar.xml",
+                    "type": "4",
+                    "size": "6041"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000085/0001408356-15-000085.txt",
+                    "type": "\u00a0",
+                    "size": "7376"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "00104fef73ff5cc9128ddfc7067a8b22",
+            "accessionNo": "0001408356-15-000081",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2015-09-10T16:08:38-04:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000140835615000081/0001408356-15-000081.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001408356-15-000081-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000081/xslF345X03/edgar.xml",
+            "entities": [
+                {
+                    "companyName": "SOLARCITY CORP (Issuer)",
+                    "cik": "0001408356",
+                    "irsNo": "020781046",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "1700 Construction - Special Trade Contractors"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-35758",
+                    "filmNo": "151101258"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000081/xslF345X03/edgar.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000081/edgar.xml",
+                    "type": "4",
+                    "size": "3510"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000081/0001408356-15-000081.txt",
+                    "type": "\u00a0",
+                    "size": "4845"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "8d74023123015420850de7c616e6a363",
+            "accessionNo": "0001408356-15-000072",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2015-08-24T15:59:09-04:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000140835615000072/0001408356-15-000072.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001408356-15-000072-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000072/xslF345X03/edgar.xml",
+            "entities": [
+                {
+                    "companyName": "SOLARCITY CORP (Issuer)",
+                    "cik": "0001408356",
+                    "irsNo": "020781046",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "1700 Construction - Special Trade Contractors"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-35758",
+                    "filmNo": "151071064"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000072/xslF345X03/edgar.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000072/edgar.xml",
+                    "type": "4",
+                    "size": "3839"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000072/0001408356-15-000072.txt",
+                    "type": "\u00a0",
+                    "size": "5174"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "fd1fe30c5bdbaa120e722036cca9a37c",
+            "accessionNo": "0001494730-15-000002",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2015-08-21T12:07:09-04:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000149473015000002/0001494730-15-000002.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001494730-15-000002-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1318605/000149473015000002/xslF345X03/edgardoc.xml",
+            "entities": [
+                {
+                    "companyName": "TESLA MOTORS INC (Issuer)",
+                    "cik": "0001318605",
+                    "irsNo": "912197729",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "3711 Motor Vehicles &amp; Passenger Car Bodies"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-34756",
+                    "filmNo": "151068180"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473015000002/xslF345X03/edgardoc.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473015000002/edgardoc.xml",
+                    "type": "4",
+                    "size": "3367"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473015000002/0001494730-15-000002.txt",
+                    "type": "\u00a0",
+                    "size": "4706"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "cb7b5472f7c953c9f099201a19b6b4b1",
+            "accessionNo": "0001408356-15-000058",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2015-08-06T17:08:51-04:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000140835615000058/0001408356-15-000058.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001408356-15-000058-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000058/xslF345X03/edgar.xml",
+            "entities": [
+                {
+                    "companyName": "SOLARCITY CORP (Issuer)",
+                    "cik": "0001408356",
+                    "irsNo": "020781046",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "1700 Construction - Special Trade Contractors"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-35758",
+                    "filmNo": "151034094"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000058/xslF345X03/edgar.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000058/edgar.xml",
+                    "type": "4",
+                    "size": "3510"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000058/0001408356-15-000058.txt",
+                    "type": "\u00a0",
+                    "size": "4845"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "67f550bc75165b035f54e5ed00d74af2",
+            "accessionNo": "0001408356-15-000050",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2015-06-15T19:07:58-04:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000140835615000050/0001408356-15-000050.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001408356-15-000050-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000050/xslF345X03/edgar.xml",
+            "entities": [
+                {
+                    "companyName": "SOLARCITY CORP (Issuer)",
+                    "cik": "0001408356",
+                    "irsNo": "020781046",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "1700 Construction - Special Trade Contractors"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-35758",
+                    "filmNo": "15932786"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000050/xslF345X03/edgar.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000050/edgar.xml",
+                    "type": "4",
+                    "size": "3510"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000050/0001408356-15-000050.txt",
+                    "type": "\u00a0",
+                    "size": "4844"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "71d68e62d8c1abb77bffa0f94f7ef4f1",
+            "accessionNo": "0001408356-15-000043",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2015-05-18T16:44:13-04:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000140835615000043/0001408356-15-000043.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001408356-15-000043-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000043/xslF345X03/edgar.xml",
+            "entities": [
+                {
+                    "companyName": "SOLARCITY CORP (Issuer)",
+                    "cik": "0001408356",
+                    "irsNo": "020781046",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "1700 Construction - Special Trade Contractors"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-35758",
+                    "filmNo": "15873751"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000043/xslF345X03/edgar.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000043/edgar.xml",
+                    "type": "4",
+                    "size": "4185"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000043/0001408356-15-000043.txt",
+                    "type": "\u00a0",
+                    "size": "5519"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "7b53d0d371bd195eb3d504634a3a87e4",
+            "accessionNo": "0001408356-15-000026",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2015-04-27T16:30:56-04:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000140835615000026/0001408356-15-000026.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001408356-15-000026-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000026/xslF345X03/edgar.xml",
+            "entities": [
+                {
+                    "companyName": "SOLARCITY CORP (Issuer)",
+                    "cik": "0001408356",
+                    "irsNo": "020781046",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "1700 Construction - Special Trade Contractors"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-35758",
+                    "filmNo": "15795504"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000026/xslF345X03/edgar.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000026/edgar.xml",
+                    "type": "4",
+                    "size": "3511"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000026/0001408356-15-000026.txt",
+                    "type": "\u00a0",
+                    "size": "4845"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "f575b458d0418b79ead44017abaddd23",
+            "accessionNo": "0001408356-15-000022",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2015-03-13T17:07:46-04:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000140835615000022/0001408356-15-000022.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001408356-15-000022-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000022/xslF345X03/edgar.xml",
+            "entities": [
+                {
+                    "companyName": "SOLARCITY CORP (Issuer)",
+                    "cik": "0001408356",
+                    "irsNo": "020781046",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "1700 Construction - Special Trade Contractors"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-35758",
+                    "filmNo": "15700179"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000022/xslF345X03/edgar.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000022/edgar.xml",
+                    "type": "4",
+                    "size": "3511"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000022/0001408356-15-000022.txt",
+                    "type": "\u00a0",
+                    "size": "4845"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "78e4ced2c3382ceef0f2fe506c78cd8c",
+            "accessionNo": "0001408356-15-000018",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2015-03-04T19:06:50-05:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000140835615000018/0001408356-15-000018.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001408356-15-000018-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000018/xslF345X03/edgar.xml",
+            "entities": [
+                {
+                    "companyName": "SOLARCITY CORP (Issuer)",
+                    "cik": "0001408356",
+                    "irsNo": "020781046",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "1700 Construction - Special Trade Contractors"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-35758",
+                    "filmNo": "15675164"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000018/xslF345X03/edgar.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000018/edgar.xml",
+                    "type": "4",
+                    "size": "3510"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000018/0001408356-15-000018.txt",
+                    "type": "\u00a0",
+                    "size": "4844"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "1834d44af7eefa43a190fc70123ee07f",
+            "accessionNo": "0001408356-15-000004",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2015-01-22T17:55:57-05:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000140835615000004/0001408356-15-000004.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001408356-15-000004-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000004/xslF345X03/edgar.xml",
+            "entities": [
+                {
+                    "companyName": "SOLARCITY CORP (Issuer)",
+                    "cik": "0001408356",
+                    "irsNo": "020781046",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "1700 Construction - Special Trade Contractors"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-35758",
+                    "filmNo": "15542908"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000004/xslF345X03/edgar.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000004/edgar.xml",
+                    "type": "4",
+                    "size": "5178"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835615000004/0001408356-15-000004.txt",
+                    "type": "\u00a0",
+                    "size": "6512"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "b6eefea108ba11e64859d55fcf6b6ab8",
+            "accessionNo": "0001408356-14-000017",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2014-07-17T19:03:13-04:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000140835614000017/0001408356-14-000017.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001408356-14-000017-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1408356/000140835614000017/xslF345X03/edgar.xml",
+            "entities": [
+                {
+                    "companyName": "SOLARCITY CORP (Issuer)",
+                    "cik": "0001408356",
+                    "irsNo": "020781046",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "1700 Construction - Special Trade Contractors"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-35758",
+                    "filmNo": "14981397"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835614000017/xslF345X03/edgar.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835614000017/edgar.xml",
+                    "type": "4",
+                    "size": "3510"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000140835614000017/0001408356-14-000017.txt",
+                    "type": "\u00a0",
+                    "size": "4844"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "d2240571be37d63c112ea0a3d0cef5a7",
+            "accessionNo": "0001494730-13-000002",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2013-04-10T18:50:05-04:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000149473013000002/0001494730-13-000002.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001494730-13-000002-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1318605/000149473013000002/xslF345X03/edgardoc.xml",
+            "entities": [
+                {
+                    "companyName": "TESLA MOTORS INC (Issuer)",
+                    "cik": "0001318605",
+                    "irsNo": "912197729",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "3711 Motor Vehicles &amp; Passenger Car Bodies"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-34756",
+                    "filmNo": "13754712"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473013000002/xslF345X03/edgardoc.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473013000002/edgardoc.xml",
+                    "type": "4",
+                    "size": "3554"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473013000002/0001494730-13-000002.txt",
+                    "type": "\u00a0",
+                    "size": "4892"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "648464e62febd2065b2ed28a54b4862b",
+            "accessionNo": "0001288257-12-000028",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2012-12-28T15:44:49-05:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000128825712000028/0001288257-12-000028.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001288257-12-000028-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1408356/000128825712000028/xslF345X03/primary_doc.xml",
+            "entities": [
+                {
+                    "companyName": "SOLARCITY CORP (Issuer)",
+                    "cik": "0001408356",
+                    "irsNo": "020781046",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "1700 Construction - Special Trade Contractors"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-35758",
+                    "filmNo": "121290792"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000128825712000028/xslF345X03/primary_doc.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000128825712000028/primary_doc.xml",
+                    "type": "4",
+                    "size": "6049"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000128825712000028/0001288257-12-000028.txt",
+                    "type": "\u00a0",
+                    "size": "7390"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "a681e2f620d86dc3519c2356ed302fd5",
+            "accessionNo": "0001181431-12-066021",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2012-12-19T17:41:33-05:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000118143112066021/0001181431-12-066021.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001181431-12-066021-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1408356/000118143112066021/xslF345X03/rrd364155.xml",
+            "entities": [
+                {
+                    "companyName": "SOLARCITY CORP (Issuer)",
+                    "cik": "0001408356",
+                    "irsNo": "020781046",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "1700 Construction - Special Trade Contractors"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-35758",
+                    "filmNo": "121275364"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "FORM 4",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000118143112066021/xslF345X03/rrd364155.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "FORM 4",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000118143112066021/rrd364155.xml",
+                    "type": "4",
+                    "size": "26754"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1408356/000118143112066021/0001181431-12-066021.txt",
+                    "type": "\u00a0",
+                    "size": "28083"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "318788d9ed50a4ac38f7f2d5a4f48e8e",
+            "accessionNo": "0001494730-12-000005",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2012-10-05T19:54:21-04:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000149473012000005/0001494730-12-000005.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001494730-12-000005-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1318605/000149473012000005/xslF345X03/edgardoc.xml",
+            "entities": [
+                {
+                    "companyName": "TESLA MOTORS INC (Issuer)",
+                    "cik": "0001318605",
+                    "irsNo": "912197729",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "3711 Motor Vehicles &amp; Passenger Car Bodies"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-34756",
+                    "filmNo": "121133252"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473012000005/xslF345X03/edgardoc.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473012000005/edgardoc.xml",
+                    "type": "4",
+                    "size": "3325"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473012000005/0001494730-12-000005.txt",
+                    "type": "\u00a0",
+                    "size": "4664"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "757e79557ea218bf04c6e87ef0a4aa54",
+            "accessionNo": "0001494730-12-000003",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2012-08-15T16:52:57-04:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000149473012000003/0001494730-12-000003.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001494730-12-000003-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1318605/000149473012000003/xslF345X03/edgardoc.xml",
+            "entities": [
+                {
+                    "companyName": "TESLA MOTORS INC (Issuer)",
+                    "cik": "0001318605",
+                    "irsNo": "912197729",
+                    "stateOfIncorporation": "DE",
+                    "fiscalYearEnd": "1231",
+                    "sic": "3711 Motor Vehicles &amp; Passenger Car Bodies"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-34756",
+                    "filmNo": "121037582"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473012000003/xslF345X03/edgardoc.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473012000003/edgardoc.xml",
+                    "type": "4",
+                    "size": "3886"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473012000003/0001494730-12-000003.txt",
+                    "type": "\u00a0",
+                    "size": "5225"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "71cb52946f28b68a1b4b4a7c9b2b96a8",
+            "accessionNo": "0001494730-12-000001",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2012-03-22T18:15:24-04:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000149473012000001/0001494730-12-000001.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001494730-12-000001-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1318605/000149473012000001/xslF345X03/edgardoc.xml",
+            "entities": [
+                {
+                    "companyName": "TESLA MOTORS INC (Issuer)",
+                    "cik": "0001318605",
+                    "irsNo": "912197729",
+                    "stateOfIncorporation": "DE",
+                    "sic": "3711 Motor Vehicles &amp; Passenger Car Bodies"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-34756",
+                    "filmNo": "12710136"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473012000001/xslF345X03/edgardoc.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473012000001/edgardoc.xml",
+                    "type": "4",
+                    "size": "3370"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473012000001/0001494730-12-000001.txt",
+                    "type": "\u00a0",
+                    "size": "4682"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "1a0701e06a105a8df991c86984aeb396",
+            "accessionNo": "0001494730-11-000006",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2011-06-09T13:33:23-04:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000149473011000006/0001494730-11-000006.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001494730-11-000006-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1318605/000149473011000006/xslF345X03/edgardoc.xml",
+            "entities": [
+                {
+                    "companyName": "TESLA MOTORS INC (Issuer)",
+                    "cik": "0001318605",
+                    "irsNo": "912197729",
+                    "stateOfIncorporation": "DE",
+                    "sic": "3711 Motor Vehicles &amp; Passenger Car Bodies"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-34756",
+                    "filmNo": "11902785"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473011000006/xslF345X03/edgardoc.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473011000006/edgardoc.xml",
+                    "type": "4",
+                    "size": "3356"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473011000006/0001494730-11-000006.txt",
+                    "type": "\u00a0",
+                    "size": "4668"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "38dfe6c7a024476739e9edf7631b91ac",
+            "accessionNo": "0001494730-11-000004",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2011-02-23T19:20:47-05:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000149473011000004/0001494730-11-000004.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001494730-11-000004-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1318605/000149473011000004/xslF345X03/edgardoc.xml",
+            "entities": [
+                {
+                    "companyName": "TESLA MOTORS INC (Issuer)",
+                    "cik": "0001318605",
+                    "irsNo": "912197729",
+                    "stateOfIncorporation": "DE",
+                    "sic": "3711 Motor Vehicles &amp; Passenger Car Bodies"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-34756",
+                    "filmNo": "11633678"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473011000004/xslF345X03/edgardoc.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473011000004/edgardoc.xml",
+                    "type": "4",
+                    "size": "3152"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473011000004/0001494730-11-000004.txt",
+                    "type": "\u00a0",
+                    "size": "4876"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        },
+        {
+            "id": "12898705e353713f8796b668b2613373",
+            "accessionNo": "0001494730-11-000002",
+            "cik": "1494730",
+            "ticker": "",
+            "companyName": "Musk Elon",
+            "companyNameLong": "Musk Elon (Reporting)",
+            "formType": "4",
+            "description": "Form 4 - Statement of changes in beneficial ownership of securities",
+            "filedAt": "2011-01-25T18:50:24-05:00",
+            "linkToTxt": "https://www.sec.gov/Archives/edgar/data/1494730/000149473011000002/0001494730-11-000002.txt",
+            "linkToHtml": "https://www.sec.gov/Archives/edgar/data/1494730/0001494730-11-000002-index.htm",
+            "linkToXbrl": "",
+            "linkToFilingDetails": "https://www.sec.gov/Archives/edgar/data/1318605/000149473011000002/xslF345X03/edgardoc.xml",
+            "entities": [
+                {
+                    "companyName": "TESLA MOTORS INC (Issuer)",
+                    "cik": "0001318605",
+                    "irsNo": "912197729",
+                    "stateOfIncorporation": "DE",
+                    "sic": "3711 Motor Vehicles &amp; Passenger Car Bodies"
+                },
+                {
+                    "companyName": "Musk Elon (Reporting)",
+                    "cik": "0001494730",
+                    "type": "4",
+                    "act": "34",
+                    "fileNo": "001-34756",
+                    "filmNo": "11547512"
+                }
+            ],
+            "documentFormatFiles": [
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473011000002/xslF345X03/edgardoc.xml",
+                    "type": "4",
+                    "size": "\u00a0"
+                },
+                {
+                    "sequence": "1",
+                    "description": "PRIMARY DOCUMENT",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473011000002/edgardoc.xml",
+                    "type": "4",
+                    "size": "4075"
+                },
+                {
+                    "sequence": "\u00a0",
+                    "description": "Complete submission text file",
+                    "documentUrl": "https://www.sec.gov/Archives/edgar/data/1318605/000149473011000002/0001494730-11-000002.txt",
+                    "type": "\u00a0",
+                    "size": "5799"
+                }
+            ],
+            "dataFiles": [],
+            "seriesAndClassesContractsInformation": []
+        }
+    ]
+}
